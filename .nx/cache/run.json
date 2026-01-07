@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx dev frontend",
+    "startTime": "2026-01-07T21:10:27.478Z",
+    "endTime": "2026-01-07T21:10:43.195Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "frontend:dev",
+      "target": "dev",
+      "projectName": "frontend",
+      "hash": "10702143556999550487",
+      "startTime": "2026-01-07T21:10:27.523Z",
+      "endTime": "2026-01-07T21:10:43.195Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

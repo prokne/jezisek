@@ -1,0 +1,16 @@
+
+> frontend@0.1.0 dev /Users/prokopnetusil/Documents/GitHub/bradavice-online-web-v2/apps/frontend
+> next dev
+
+   [1m[38;2;173;127;168m▲ Next.js 15.3.4[39m[22m
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.168:3000
+
+ [32m[1m✓[22m[39m Starting...
+ [32m[1m✓[22m[39m Ready in 1295ms
+ [37m[1m○[22m[39m Compiling / ...
+ [32m[1m✓[22m[39m Compiled / in 605ms (728 modules)
+ GET / [32m200[39m in 842ms
+ [32m[1m✓[22m[39m Compiled /favicon.ico in 182ms (422 modules)
+ GET /favicon.ico [32m200[39m in 293ms
+^C[?25h
