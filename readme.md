@@ -1,4 +1,4 @@
-# Bradavice Online Web v2
+# JEZISKOVA POSTA
 
 ## How to Run the Application
 
