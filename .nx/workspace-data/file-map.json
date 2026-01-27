@@ -8,7 +8,7 @@
       "frontend": [
         {
           "file": "apps/frontend/.gitignore",
-          "hash": "1867017717006394117"
+          "hash": "9530221396948877600"
         },
         {
           "file": "apps/frontend/README.md",
@@ -28,19 +28,26 @@
         },
         {
           "file": "apps/frontend/package.json",
-          "hash": "1467323040406441124",
+          "hash": "5160453371053991653",
           "deps": [
-            "npm:typescript",
+            "npm:@eslint/eslintrc",
             "npm:@types/node",
             "npm:@types/react",
             "npm:@types/react-dom",
             "npm:eslint",
             "npm:eslint-config-next",
-            "npm:@eslint/eslintrc",
+            "npm:typescript",
+            "npm:@tailwindcss/postcss",
+            "npm:next",
+            "npm:postcss@8.5.6",
             "npm:react",
             "npm:react-dom",
-            "npm:next"
+            "npm:tailwindcss"
           ]
+        },
+        {
+          "file": "apps/frontend/postcss.config.js",
+          "hash": "14955507754090005736"
         },
         {
           "file": "apps/frontend/public/file.svg",
@@ -68,7 +75,7 @@
         },
         {
           "file": "apps/frontend/src/app/globals.css",
-          "hash": "12033604509699787981"
+          "hash": "3994267036215648723"
         },
         {
           "file": "apps/frontend/src/app/layout.tsx",
@@ -80,7 +87,7 @@
         },
         {
           "file": "apps/frontend/src/app/page.tsx",
-          "hash": "5609432109520262808"
+          "hash": "4708703208214402712"
         },
         {
           "file": "apps/frontend/tsconfig.json",
@@ -90,8 +97,8 @@
     },
     "nonProjectFiles": [
       {
-        "file": ".DS_Store",
-        "hash": "6870880323635236314"
+        "file": ".gitignore",
+        "hash": "11467423673988042395"
       },
       {
         "file": "package.json",
@@ -99,11 +106,15 @@
       },
       {
         "file": "pnpm-lock.yaml",
-        "hash": "3292161938105742961"
+        "hash": "13154585615651219028"
       },
       {
         "file": "pnpm-workspace.yaml",
         "hash": "11805071067713496448"
+      },
+      {
+        "file": "readme.md",
+        "hash": "13130836015081335391"
       }
     ]
   }
